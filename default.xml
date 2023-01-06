@@ -1,6 +1,3 @@
 <manifest>
   <remote review="https://android.googlesource.com/" />
-
-  <project path="build/make" name="ashokkrishnaltts/myscripts" />
-  <project path="build/blueprint" name="ashokkrishnaltts/myscripts" />
 </manifest>
